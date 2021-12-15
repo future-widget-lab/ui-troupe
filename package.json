@@ -1,6 +1,6 @@
 {
   "name": "ui-troupe",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "🎭 UI Troupe is a minimal view-agnostic front-end application structure that leverages the actor model and statecharts in order to build predictable UIs",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

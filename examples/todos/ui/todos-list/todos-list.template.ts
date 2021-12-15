@@ -1,7 +1,7 @@
 import { html } from "lit-html";
 import { css } from "@emotion/css";
 import { ActorRef, State } from "xstate";
-import { ISystemState } from "../../../../dist/createRenderer";
+import { ISystemState } from "../../../../dist";
 
 import { IAppContext, IAppEvent, ITodosContext, ITodosEvent } from "../../app";
 import { IUiContext, IUiEvent } from "../root";

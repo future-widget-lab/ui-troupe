@@ -1,6 +1,6 @@
 import { html } from "lit-html";
 import { css } from "@emotion/css";
-import { ISystemState } from "../../../../dist/createRenderer";
+import { ISystemState } from "../../../../dist";
 
 import "../normalize.css";
 import { TitleTemplate } from "../title";
