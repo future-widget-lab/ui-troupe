@@ -1,11 +1,11 @@
 {
   "name": "ui-troupe",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "🎭 UI Troupe is a minimal view-agnostic front-end application structure that leverages the actor model and statecharts in order to build predictable UIs",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/Platekun/ui-troupe"
+    "url": "https://github.com/future-widget-lab/ui-troupe"
   },
   "scripts": {
     "build": "rimraf ./dist && tsc --version && tsc --project tsconfig.json",
